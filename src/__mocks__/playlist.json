@@ -1,0 +1,2206 @@
+{
+	"kind": "youtube#playlistItemListResponse",
+	"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MvU8DkfhwU0aMqvouoFeov_b0as\"",
+	"nextPageToken": "CDIQAA",
+	"pageInfo": {
+		"totalResults": 164,
+		"resultsPerPage": 50
+	},
+	"items": [
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/S-S9zbyEa7mFWSgzpj-BSWFdmmc\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4yODlGNEE0NkRGMEEzMEQy",
+			"snippet": {
+				"publishedAt": "2012-11-28T05:41:50.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The happy secret to better work | Shawn Achor",
+				"description": "http://www.ted.com We believe that we should work to be happy, but could that be backwards? In this fast-moving and entertaining talk from TEDxBloomington, psychologist Shawn Achor argues that actually happiness inspires productivity.\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes. Featured speakers have included Al Gore on climate change, Philippe Starck on design, Jill Bolte Taylor on observing her own stroke, Nicholas Negroponte on One Laptop per Child, Jane Goodall on chimpanzees, Bill Gates on malaria and mosquitoes, Pattie Maes on the \"Sixth Sense\" wearable tech, and \"Lost\" producer JJ Abrams on the allure of mystery. TED stands for Technology, Entertainment, Design, and TEDTalks cover these topics as well as science, business, development and the arts. Closed captions and translated subtitles in a variety of languages are now available on TED.com, at http://www.ted.com/translate\n\nIf you have questions or comments about this or other TED videos, please go to http://support.ted.com",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/fLJsdqxnZb0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/fLJsdqxnZb0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/fLJsdqxnZb0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/fLJsdqxnZb0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/fLJsdqxnZb0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 0,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "fLJsdqxnZb0"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ctfZWJA_PrI9LZ9KHO5mtMU1ink\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4wMTcyMDhGQUE4NTIzM0Y5",
+			"snippet": {
+				"publishedAt": "2012-11-28T05:42:02.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The beauty of algebra | Introduction to algebra | Algebra I | Khan Academy",
+				"description": "Why the abstraction of mathematics is so fundamental\n\nWatch the next lesson: https://www.khanacademy.org/math/algebra/introduction-to-algebra/overview_hist_alg/v/descartes-and-cartesian-coordinates?utm_source=YT&utm_medium=Desc&utm_campaign=AlgebraI\n\nMissed the previous lesson? \nhttps://www.khanacademy.org/math/algebra/introduction-to-algebra/overview_hist_alg/v/abstract-ness?utm_source=YT&utm_medium=Desc&utm_campaign=AlgebraI\n\nAlgebra I on Khan Academy: Algebra is the language through which we describe patterns. Think of it as a shorthand, of sorts. As opposed to having to do something over and over again, algebra gives you a simple way to express that repetitive process. It's also seen as a \"gatekeeper\" subject. Once you achieve an understanding of algebra, the higher-level math subjects become accessible to you. Without it, it's impossible to move forward. It's used by people with lots of different jobs, like carpentry, engineering, and fashion design. In these tutorials, we'll cover a lot of ground. Some of the topics include linear equations, linear inequalities, linear functions, systems of equations, factoring expressions, quadratic expressions, exponents, functions, and ratios.\n\nAbout Khan Academy: Khan Academy is a nonprofit with a mission to provide a free, world-class education for anyone, anywhere. We believe learners of all ages should have unlimited access to free educational content they can master at their own pace. We use intelligent software, deep data analytics and intuitive user interfaces to help students and teachers around the world. Our resources cover preschool through early college education, including math, biology, chemistry, physics, economics, finance, history, grammar and more. We offer free personalized SAT test prep in partnership with the test developer, the College Board. Khan Academy has been translated into dozens of languages, and 100 million people use our platform worldwide every year. For more information, visit www.khanacademy.org, join us on Facebook or follow us on Twitter at @khanacademy. And remember, you can learn anything.\n\nFor free. For everyone. Forever. #YouCanLearnAnything\n\nSubscribe to Khan Academy’s Algebra channel:\nhttps://www.youtube.com/channel/UCYZrCV8PNENpJt36V0kd-4Q?sub_confirmation=1\nSubscribe to Khan Academy: https://www.youtube.com/subscription_center?add_user=khanacademy",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/kpCJyQ2usJ4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/kpCJyQ2usJ4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/kpCJyQ2usJ4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/kpCJyQ2usJ4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/kpCJyQ2usJ4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 1,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "kpCJyQ2usJ4"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4cgQ57cMJyDKs6dtxQu7NXatQt0\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41MjE1MkI0OTQ2QzJGNzNG",
+			"snippet": {
+				"publishedAt": "2012-11-29T08:50:31.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Does the Universe Have a Purpose? feat. Neil deGrasse Tyson",
+				"description": "Neil deGrasse Tyson was asked by the Templeton Foundation to answer the question \"Does the Universe Have a Purpose\". Then he read his answer aloud and I drew some pictures for it. http://www.templeton.org/purpose/\n\nYou can buy MinutePhysics T-shirts at http://dftba.com/minutephysics\n\nMinutePhysics is on Google+ - http://bit.ly/qzEwc6 \nAnd facebook - http://facebook.com/minutephysics\nAnd twitter - @minutephysics\n\nMinute Physics provides an energetic and entertaining view of old and new problems in physics -- all in a minute!\n\nMusic by Nathaniel Schroeder http://www.soundcloud.com/drschroeder\n\nThanks to Nima Doroud for contributions and to Perimeter Institute for support.\nhttp://www.perimeterinstitute.ca Created by Henry Reich",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/7pL5vzIMAhs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/7pL5vzIMAhs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/7pL5vzIMAhs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/7pL5vzIMAhs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/7pL5vzIMAhs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 2,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "7pL5vzIMAhs"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CKB5np78uHOhVxpHbgDonXvqJNc\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4wOTA3OTZBNzVEMTUzOTMy",
+			"snippet": {
+				"publishedAt": "2012-12-01T08:18:07.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The Science of Lying",
+				"description": "Hank gets into the dirty details behind our lying ways - how such behavior evolved, how pathological liars are different from the rest of us, and how scientists are getting better at spotting lies in many situations.\n\nLike SciShow on Facebook: http://www.facebook.com/scishow\nFollow SciShow on Twitter: http://www.twitter.com/scishow\n\nReferences for this episode can be found in the Google document here: http://dft.ba/-2Wxa",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/MX3Hu8loXTE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/MX3Hu8loXTE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/MX3Hu8loXTE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/MX3Hu8loXTE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/MX3Hu8loXTE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 3,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "MX3Hu8loXTE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Wi4HKddQdDUs7i-2jexVCsyeH5A\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4xMkVGQjNCMUM1N0RFNEUx",
+			"snippet": {
+				"publishedAt": "2012-12-01T08:22:48.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "5 Weird Reasons Not to Smoke",
+				"description": "Hank gives you five MORE reasons why you should probably avoid smoking, or quit if you already smoke - in addition to those big ones you already know about. These are the weird reasons.\n\nLike SciShow on Facebook: http://www.facebook.com/scishow\nFollow SciShow on Twitter: http://www.twitter.com/scishow\n\nReferences for this episode can be found in the Google document here: http://dft.ba/-2WvR",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/OLcFVau5wvk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/OLcFVau5wvk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/OLcFVau5wvk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/OLcFVau5wvk/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/OLcFVau5wvk/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 4,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "OLcFVau5wvk"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/stnfDL3z3gHc8jWuVoSl8QNROtM\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41MzJCQjBCNDIyRkJDN0VD",
+			"snippet": {
+				"publishedAt": "2012-12-01T08:24:45.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Why Sexy Is Sexy",
+				"description": "Hank delves into the scientific reasons behind why we are attracted to the people we're attracted to. It's complicated.\n\nLike SciShow on Facebook: http://www.facebook.com/scishow\nFollow SciShow on Twitter: http://www.twitter.com/scishow\n\nReferences for this episode can be found in the Google document here: http://dft.ba/-3by3",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ZYUtVsA-wi4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ZYUtVsA-wi4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ZYUtVsA-wi4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/ZYUtVsA-wi4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/ZYUtVsA-wi4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 5,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "ZYUtVsA-wi4"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ol7LySVPPG9Zs63iivmyCNzOBig\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5DQUNERDQ2NkIzRUQxNTY1",
+			"snippet": {
+				"publishedAt": "2012-12-02T08:13:09.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Is The 5-Second Rule True?",
+				"description": "Watch me lift a car (and then drop it) with phone books! http://bit.ly/Tx6cd2\n\nVsauce video on \"touch\" and why bananas are radioactive: http://bit.ly/YfocQL\n\nVsauce on THNKR (4-part interview with me!): http://bit.ly/Twsah2\n\nhttp://www.twitter.com/tweetsauce\nhttp://www.facebook.com/vsaucegaming\nAll music by http://www.youtube.com/JakeChudnow\n\n5-second rule facts:\n\nhttp://www.snopes.com/food/tainted/dropped.asp\nhttp://science.howstuffworks.com/science-vs-myth/everyday-myths/five-second-rule.htm\nhttp://en.wikipedia.org/wiki/Five-second_rule\n\nApplied Microbiology: http://onlinelibrary.wiley.com/store/10.1111/j.1365-2672.2006.03171.x/asset/j.1365-2672.2006.03171.x.pdf?v=1&t=h9zjxcsg&s=ae4a166c50e80507642181594ab22a12dd7c7831\n\nJillian Clarke: http://www.howard.edu/newsroom/releases/2004/041001clarke.htm\n\nMythbusters: http://dsc.discovery.com/tv-shows/mythbusters/videos/five-second-rule-minimyth.htm\n\nminutephysics on \"touch\": http://www.youtube.com/watch?v=BksyMWSygnc\n\nElectrons as waves: http://www.rhythmodynamics.com/Gabriel_LaFreniere/matter.htm\n\nAdhesion: \n\nhttp://www.coatingspromag.com/articles/the-bonds-that-bind.aspx\nhttp://en.wikipedia.org/wiki/Adhesive_surface_forces\nhttp://en.wikipedia.org/wiki/Quantum_mechanical_explanation_of_intermolecular_interactions\nhttp://books.google.co.uk/books?id=cuyaHsui1ZUC&printsec=frontcover#v=onepage&q&f=false\n\nIntermolecular Forces:\n\nhttp://www.chemguide.co.uk/atoms/bonding/vdw.html\nhttp://ww2.chemistry.gatech.edu/~lw26/structure/molecular_interactions/mol_int.html\nhttp://hyperphysics.phy-astr.gsu.edu/hbase/chemical/waal.html#c1\n\nMolecule speed (interactive): http://aspire.cosmic-ray.org/labs/gas_particles/\n\nMolecular Dynamics: http://en.wikipedia.org/wiki/Molecular_dynamics#Short-range_interaction_algorithms\n\nPhone book friction: http://www.de-monstrare.nl/pdf/Phonebook%20friction.pdf\n\nOrders of Magnitude: http://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1030\n\nGerm facts:\n\nhttp://etiquette.about.com/od/Smartphones/a/Cell-Phones-Are-Personal-Items.htm\nhttp://www.huffingtonpost.com/2012/10/18/bank-card-fecal-bacteria-contaminated-germs_n_1971609.html\nhttp://www.geeksugar.com/Computer-Mouse-Keyboard-Each-Have-Over-700-Germs-Per-Square-Inch-3023797\n\nOatmeal Cell Phone Germs QUIZ: http://theoatmeal.com/quiz/phone_germs/go\n\nThe best way to clean your computer screen: http://www.yahelite.org/lol/screenclean.swf\n\nProduced by: http://www.youtube.com/funnycatvideos\nDirected by: http://www.youtube.com/user/jackhoward\nCinematography: https://twitter.com/luffwoto",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/rYXdsOEWBj0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/rYXdsOEWBj0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/rYXdsOEWBj0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/rYXdsOEWBj0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/rYXdsOEWBj0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 6,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "rYXdsOEWBj0"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/QMRRRzYAHBvvbq_8Tun3SoVwwvE\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS45NDk1REZENzhEMzU5MDQz",
+			"snippet": {
+				"publishedAt": "2012-12-04T05:02:13.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Reinventing the fastest forgotten archery.",
+				"description": "Faster than Legolas! \nA historical technique much faster than the known.\n\nThe Danish archers Lars Andersen has rediscovered. an old and very fast way to shoot bows.\n\nTo compare speed\nI have added 4 other good fast archers together !\nto show the time it takes to shoot 10 arrows.\n\nIt is completely unscientific and not objectively\nThe 4 other archers can probably shoot faster than these video.\n\n1: Lajos Kassai famous and fabulous Hungarian. \nFastest horseback shooting in the world !\nHe was the one who first inspired me to fast shooting.\nShoot and teach the horses and archery system\nhe has developed.\nA system based on pre angerede arrows.\nhttp://www.youtube.com/watch?v=2yorHswhzrU\n\n2: Iza Privezenceva tough Russian girl.\nFastest quiver shooting in the world!\nShe shoots a new and very interesting inverse system developed by Seregedel.\nhttp://www.youtube.com/user/SeregedelReal\n\n3: DasDaan Dutch archer\nHe shoots a \"\"classic\"\" quiver system\nhttp://www.youtube.com/user/DasDaan\n\n4: Bo \" CombatArchery\" cole American archer.\nShoot and teach the system he has developed\nA fairly simple straightforward system, without the \nuse of pre angerede arrows.\nThe best start system for people who want to shooting fast\nhttp://www.youtube.com/user/CombatArchery\n\nProperly done \"arrows in the hand\" puts no restrictions on the bow strength.\nBut being able to do this with very strong war bows will probably require a lifetime of training, far more than the time I spent.\nStress on the body is really high with extremely fast shooting with powerful bows if you have not first built up the necessary strength,\n\nShooting on the chain mail:\nIt is with the video because it shows how much energy \"low pressure\" modern carbon fiber bows actually provides.\nRing armor is good quality riveted and with rings on the 7mm\n(if the test should have been right there should have been a gambeson below)\n\nI had first agreed with a blacksmith that he should make special arrows chain mail tips, but made first a test with normal arrows, and quite surprisingly smashed all the ordinary arrows straight through the ring armor.\nit surprised me a lot because I had thought that I had to use one of my heavier bows.\n\n\nIt should be remembered that if you look at past archers: the 60,000 year and throughout the world. so most archers never shot at enemies with iron armor.\n\nToday we often have an incorrect idea that war archery is always against enemies in iron armor.\n\nIn 60,000 years, man has shot with bow,\nToday we know very little about the past archery.\nso much is lost.\nThere are no truths, or proper ways to shoot with bow,\nI have rediscovered something about archery, but there is still so much to rediscover.\n\nSincerely,\nLars Andersen\n\nComments on my videos:\nI remove: stupid and not funny comments, childish criticism,,,,,",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/2zGnxeSbb3g/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/2zGnxeSbb3g/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/2zGnxeSbb3g/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/2zGnxeSbb3g/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/2zGnxeSbb3g/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 7,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "2zGnxeSbb3g"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/DvcB9ZnR91EOw3sXUvx4JJ5yR_I\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5GNjNDRDREMDQxOThCMDQ2",
+			"snippet": {
+				"publishedAt": "2012-12-04T09:27:51.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Religion as ritual - 60 Second Adventures in Religion (2/4)",
+				"description": "Explore how ancient beliefs developed from \"Eggism\" into modern day religion. French philosopher, Comte explains how.\n\n(Part 2 of 4)\nPlaylist link - http://www.youtube.com/playlist?list=PLhQpDGfX5e7AUI1kWCNjbigehipSmkZ5s\n\nTranscript link - http://podcast.open.ac.uk/feeds/2200_60secondadventuresinreligion/transcript/religion_as_ritual_02200_21849.pdf \n\nStudy free course on Studying religion at the Open University https://www.open.edu/openlearn/history-the-arts/culture/religious-studies/studying-religion/content-section-0?active-tab=content-tab\n\nStudy free course on Religion today: Themes and issues at the Open University https://www.open.edu/openlearn/history-the-arts/culture/religious-studies/religion-today-themes-and-issues/content-section-0?active-tab=description-tab \n\nStudy R14 BA (Honours) Arts and Humanities (Religious Studies)\nhttp://www.open.ac.uk/courses/qualifications/r14-rs\n\nStudy R23 BA (Honours) Social Sciences (Religious Studies)\nhttp://www.open.ac.uk/courses/qualifications/r23-rel \n\nThe Open University is the world’s leading provider of flexible, high-quality online degrees and distance learning, serving students across the globe with highly respected degree qualifications, and the triple-accredited MBA. The OU teaches through its own unique method of distance learning, called ‘supported open learning’ and you do not need any formal qualifications to study with us, just commitment and a desire to find out what you are capable of. \n\nFree learning from The Open University\nhttp://www.open.edu/openlearn/\n\nFor more like this subscribe to the Open University channel\nhttps://www.youtube.com/channel/UCXsH4hSV_kEdAOsupMMm4Qw\n\nLike us on Facebook: https://www.facebook.com/ouopenlearn/\n\nFollow us on Twitter: https://twitter.com/OUFreeLearning\n\n#OpenUniversity #religion",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4TcdAkQJpQE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4TcdAkQJpQE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4TcdAkQJpQE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4TcdAkQJpQE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/4TcdAkQJpQE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 8,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "4TcdAkQJpQE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/1jbGZWDOasc6tYzQbSCI3kuXKRs\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS40NzZCMERDMjVEN0RFRThB",
+			"snippet": {
+				"publishedAt": "2012-12-06T04:21:47.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Can Texas Secede from the Union?",
+				"description": "Help support videos like this: https://www.patreon.com/cgpgrey\n\nCGPGrey T-shirts available: http://cgpgrey.com/t-shirt\n\nImages by http://www.flickr.com/photos/rutlo/ and photoshop help from https://plus.google.com/113547468071808389398/posts",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/S92fTz_-kQE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/S92fTz_-kQE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/S92fTz_-kQE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/S92fTz_-kQE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/S92fTz_-kQE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 9,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "S92fTz_-kQE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j044YwkMFvix54lHhpIHkXHeRC0\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5EMEEwRUY5M0RDRTU3NDJC",
+			"snippet": {
+				"publishedAt": "2012-12-06T04:31:17.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The Dark Ages...How Dark Were They, Really?: Crash Course World History #14",
+				"description": "Crash Course World History is now available on DVD! Visit http://store.dftba.com/products/crashcourse-world-history-the-complete-series-dvd-set to buy a set for your home or classroom.\n\nYou can directly support Crash Course at http://www.patreon.com/crashcourse Subscribe for as little as $0 to keep up with everything we're doing. Free is nice, but if you can afford to pay a little every month, it really helps us to continue producing this content.\n\nJohn Green teaches you about the so-called Dark Ages, which it turns out weren't as uniformly dark as you may have been led to believe. While Europe was indeed having some issues, many other parts of the world were thriving and relatively enlightened. John covers European Feudalism, the cultural blossoming of the Islamic world, and the scientific and artistic advances in China, all during these \"Dark Ages.\" Along the way, John will raise questions about the validity of Europe's status as a continent, reveal the best and worst years of his life, and frankly state that science and religion were once able to coexist.\n\n\nFollow us!\n@thecrashcourse\n@realjohngreen\n@raoulmeyer\n@crashcoursestan\n@saysdanica\n@thoughtbubbler\n\nLike us! ‪http://www.facebook.com/youtubecrashcourse\nFollow us again! ‪http://thecrashcourse.tumblr.com Support CrashCourse on Patreon: http://patreon.com/crashcourse",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/QV7CanyzhZg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/QV7CanyzhZg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/QV7CanyzhZg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/QV7CanyzhZg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/QV7CanyzhZg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 10,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "QV7CanyzhZg"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/oMc-K6EO1rX3VNMYCKc9GyFSVN4\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS45ODRDNTg0QjA4NkFBNkQy",
+			"snippet": {
+				"publishedAt": "2012-12-07T08:15:49.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Are Cell Phones Replacing Reality? | Idea Channel | PBS Digital Studios",
+				"description": "Viewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/donateidea\n\nCan you live without your phone? \n\nWe've all become pretty attached to our cellular devices: it's a GPS, a camera, a game console, a social media portal... and half a million other things, all in our pocket! From concerts to meals to our pets, we process and experience the world through our phone. But as we see in so many mobile phone ads, the representations of these moments (whether its instagrams, foursquare check ins or Facebook shares) seem to be taking over and replacing the experience itself. In this brave new world is the mobile phone a tool, or a filter through which we experience a new reality? \n\nLet us know what sorts of crazy ideas you have, about this episode and otherwise:\nTweet at us! @pbsideachannel (yes, the longest twitter username ever)\nEmail us! pbsideachannel [at] gmail [dot] com\n\nHosted by Mike Rugnetta (@mikerugnetta)\nMade by Kornhaber Brown (http://www.kornhaberbrown.com)\n\nCGP Grey\nCopyright: Forever Less One Day\nhttp://www.youtube.com/watch?v=tk862BbjWx4\n\nBarats and Bereta - Hapi Birth Dey\nhttp://www.youtube.com/watch?v=2f2PCWYAZQc\n\nEverything is a Remix\nhttps://www.youtube.com/watch?v=NmwwjikTHxw\n\nPlusEcon Response:\nhttp://www.youtube.com/watch?v=wcCyRmHels0&feature=plcp\n\nPaper Mentioned in Comments:\nCarla Hesse - Rise of Intellectual Property\nhttp://www.amacad.org/publications/spring2002/hesse.pdf\n\nMusic:\nRoglok: http://vimeo.com/musicstore/track/21166\nLevel 5: Room for the Homeless http://www.jamendo.com/en/list/a101325/level-5\nTony Bullard: Rockin http://soundcloud.com/toekneebullard/rockin\nEatMe: http://www.jamendo.com/en/artist/348390/eatme\nThe Grave Arcade - Graphix (Awesome Gif Idea Channel Remix!) http://www.youtube.com/watch?v=8g5-IC7QrNI\n\n\nWant some more Idea Channel?\n\nHere's Last Week's episode: \"Should 'Happy Birthday' be Protected by Copyright?\" http://youtu.be/fzbSt0QG7mY\n\n Want another one? Here ya go: \"Is Nostalgia the Reason for Adventure Time's Amazing Awesomeness?\" http://youtu.be/7MVvkqbXiws\n\nHere's Some More: \"Is YouTube Making Us Smarter?\" http://youtu.be/8qjge9U_MiA",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/8AXIAM7dTTg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/8AXIAM7dTTg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/8AXIAM7dTTg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/8AXIAM7dTTg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/8AXIAM7dTTg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 11,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "8AXIAM7dTTg"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9bdoRXUjencwMUyAj1lnVwomUec\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4zMDg5MkQ5MEVDMEM1NTg2",
+			"snippet": {
+				"publishedAt": "2012-12-08T08:04:23.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Common Physics Misconceptions",
+				"description": "What if you thought the earth was flat? And then you found out it isn't?\n\nMinutePhysics is on Google+ - http://bit.ly/qzEwc6 \nAnd facebook - http://facebook.com/minutephysics\nAnd twitter - @minutephysics\n\nMinute Physics provides an energetic and entertaining view of old and new problems in physics -- all in a minute!\n\nMusic by Nathaniel Schroeder http://www.soundcloud.com/drschroeder\n\nThanks to Nima Doroud for contributions and to Perimeter Institute for support.\nhttp://www.perimeterinstitute.ca\n\nCreated by Henry Reich Created by Henry Reich",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/IM630Z8lho8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/IM630Z8lho8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/IM630Z8lho8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/IM630Z8lho8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/IM630Z8lho8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 12,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "IM630Z8lho8"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/HLZ3Q9P4kYdiRU8NVSjECfX31zk\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41Mzk2QTAxMTkzNDk4MDhF",
+			"snippet": {
+				"publishedAt": "2012-12-10T08:38:53.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Haitian Revolutions: Crash Course World History #30",
+				"description": "Ideas like liberty, freedom, and self-determination were hot stuff in the late 18th century, as evidenced by our recent revolutionary videos. Although freedom was breaking out all over, many of the societies that were touting these ideas relied on slave labor. Few places in the world relied so heavily on slave labor as Saint-Domingue, France's most profitable colony. Slaves made up nearly 90% of Saint-Domingue's population, and in 1789 they couldn't help but hear about the revolution underway in France. All the talk of liberty, equality, and fraternity sounds pretty good to a person in bondage, and so the slaves rebelled. This led to not one but two revolutions, and ended up with France, the rebels, Britain, and Spain all fighting in the territory. Spoiler alert: the slaves won. So how did the slaves of what would become Haiti throw off the yoke of one of the world's great empires? John Green tells how they did it, and what it has meant in Haiti and in the rest of the world.\n\nCrash Course World History is now available on DVD! http://store.dftba.com/products/crashcourse-world-history-the-complete-series-dvd-set\n\nFollow us!\n@thecrashcourse\n@realjohngreen\n@raoulmeyer\n@crashcoursestan\n@saysdanica\n@thoughtbubbler\n\nLike us! ‪http://www.facebook.com/youtubecrashcourse\nFollow us again! ‪http://thecrashcourse.tumblr.com\nSupport Crash Course on Patreon: http://patreon.com/crashcourse",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/5A_o-nU5s2U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/5A_o-nU5s2U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/5A_o-nU5s2U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/5A_o-nU5s2U/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/5A_o-nU5s2U/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 13,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "5A_o-nU5s2U"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/7sSfhhChKl25tjzCcKc0FxNlzn0\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5EQUE1NTFDRjcwMDg0NEMz",
+			"snippet": {
+				"publishedAt": "2012-12-11T09:08:52.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Encryption and HUGE numbers - Numberphile",
+				"description": "Banks, Facebook, Twitter and Google use epic numbers - based on prime factors - to keep our Internet secrets. This is RSA public-key encryption.\nMore links & stuff in full description below ↓↓↓\n\nGold Vault: https://youtu.be/CTtf5s2HFkA\n\nThis video features Dr James Grime (http://singingbanana.com/). Message from James: \"Thanks to Dr Chris Hughes of the University of York who showed me how to find the RSA public key from my browser, and showed me how awesome they look when you print them out.\"\n\nRegarding the keys used for encryption:\nx, y prime\nEncode key E shares no factors with (x-1)(y-1)\nDecode key is D with E*D - 1 a multiple of (x-1)(y-1)\n\nThanks to Drew Mokris for the animation: http://www.spinnerdisc.com/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/M7kEpw1tn50/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/M7kEpw1tn50/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/M7kEpw1tn50/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/M7kEpw1tn50/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/M7kEpw1tn50/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 14,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "M7kEpw1tn50"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/r7fic6hUU2H7skwC6wFls65xpds\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41QTY1Q0UxMTVCODczNThE",
+			"snippet": {
+				"publishedAt": "2012-12-12T08:15:54.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Base 12 - Numberphile",
+				"description": "We mark the date 12/12/12 with a video about the merits of the dozenal/duodecimal system.\nMore links & stuff in full description below ↓↓↓\n\nNumberphile regular Dr James Grime makes the case. More about James at http://www.singingbanana.com/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/U6xJfP7-HCc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/U6xJfP7-HCc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/U6xJfP7-HCc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/U6xJfP7-HCc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/U6xJfP7-HCc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 15,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "U6xJfP7-HCc"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/daDqwHAKCc9SB4BmiDp5CESTwso\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4yMUQyQTQzMjRDNzMyQTMy",
+			"snippet": {
+				"publishedAt": "2012-12-12T08:31:27.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Tau replaces Pi - Numberphile",
+				"description": "Should Pi be replaced by Tau? Professor Phil Moriarty thinks so.\nMore links & stuff in full description below ↓↓↓\n\nSee our collection of Pi videos at: http://www.youtube.com/playlist?list=PL4870492ACBDC2E7C\n\nSee ViHart's Tau video at: http://www.youtube.com/watch?v=jG7vhMMXagQ\n\nTau manifesto: http://tauday.com/\n\nProfessor Phil Moriarty is a physicist at the University of Nottingham. His \"scrawls\" from this video can be seen on Flickr at: http://www.flickr.com/photos/numberphile/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/83ofi_L6eAo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/83ofi_L6eAo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/83ofi_L6eAo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/83ofi_L6eAo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/83ofi_L6eAo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 16,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "83ofi_L6eAo"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jAvLl_g-BoftRs9xKdARYF9_xj4\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS45RTgxNDRBMzUwRjQ0MDhC",
+			"snippet": {
+				"publishedAt": "2012-12-12T08:42:50.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Beautiful Card Trick - Numberphile",
+				"description": "Standup mathematician Matt Parker says this 27-card trick is the most mathematically beautiful - but it takes some explaining!\nMore links & stuff in full description below ↓↓↓\n\nFollow Matt on Twitter - https://twitter.com/standupmaths\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/l7lP9y7Bb5g/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/l7lP9y7Bb5g/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/l7lP9y7Bb5g/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/l7lP9y7Bb5g/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/l7lP9y7Bb5g/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 17,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "l7lP9y7Bb5g"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/8mG0X3bIENAAB0nU8QmObgZz_QI\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5ENDU4Q0M4RDExNzM1Mjcy",
+			"snippet": {
+				"publishedAt": "2012-12-12T10:08:35.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "13,983,816 and the Lottery - Numberphile",
+				"description": "The chance of picking the six winning numbers from the 49 balls in the UK National Lottery is one in 13,983,816 - on the other hand, the odds of selecting no balls???\nMore links & stuff in full description below ↓↓↓\n\nNumber-loving physicist James Clewett attempts to \"pick some winners\"! :)\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/U7f8j3mVMbc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/U7f8j3mVMbc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/U7f8j3mVMbc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/U7f8j3mVMbc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/U7f8j3mVMbc/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 18,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "U7f8j3mVMbc"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2NPPT697ghJgaNP2JY3M_m1FzW0\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4yMDhBMkNBNjRDMjQxQTg1",
+			"snippet": {
+				"publishedAt": "2012-12-12T10:46:11.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "1 and Prime Numbers - Numberphile",
+				"description": "Is 1 a prime number? Apparently not. Dr James Grime explains.\nMore links & stuff in full description below ↓↓↓\n\nJames Grime's website is: http://singingbanana.com/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/IQofiPqhJ_s/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/IQofiPqhJ_s/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/IQofiPqhJ_s/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/IQofiPqhJ_s/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 19,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "IQofiPqhJ_s"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KoWvv80bZXxvn3KKQmGkdVhJq8o\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5GM0Q3M0MzMzY5NTJFNTdE",
+			"snippet": {
+				"publishedAt": "2012-12-12T10:51:33.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Poop Splash Elimination - Smarter Every Day 22",
+				"description": "Tell Your Friends.  Click This:  http://on.fb.me/POOPSPLASH \nI'm being told OB/GYN Doctors are playing this video on their iPads to help describe why some patients have problems with reoccurring UTIs.\nI was reading a pretty intense paper on Worthington Jets and thought about how awesome it would be to create a video with a Fecal Simulant to relate this scientific phenomenon to every man's problems.  I find Worthington jets fascinating.  They are very similar to what's happinging during the Munroe Effect.  \n\nThe Camera used is a Vision Research Phantom.  Their website is here:\nhttp://www.visionresearch.com/\n\nThe music was created by \"A Shell In The Pit\".  Download the song here:  Support the artist:\nhttp://ashellinthepit.bandcamp.com/track/07-grizzly-tattoo)\n\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\nInstead of saving for my kids' college, I make videos using the money I would have saved.\nThe thought is it will help educate the world as a whole, and one day generate enough revenue to pay for their education.  Until then if you appreciate what you've learned in this video and the effort that went in to it, please share the video.  If you REALLY liked it, feel free to pitch a few dollars towards their college fund by clicking here:\nhttp://bit.ly/KidsCollege\n\nWarm Regards,\n\nDestin",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/-XNDM4eAn1U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/-XNDM4eAn1U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/-XNDM4eAn1U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/-XNDM4eAn1U/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 20,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "-XNDM4eAn1U"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/EUX0WMLtdnbwZM_eRYiWroc2gYE\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4zRjM0MkVCRTg0MkYyQTM0",
+			"snippet": {
+				"publishedAt": "2012-12-12T10:52:15.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "3 is everywhere - Numberphile",
+				"description": "Almost all numbers contain the digit three - and we can prove it!?\nMore links & stuff in full description below ↓↓↓\n\nFeaturing Dr James Grime, whose website is http://www.singingbanana.com/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UfEiJJGv4CE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UfEiJJGv4CE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UfEiJJGv4CE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/UfEiJJGv4CE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/UfEiJJGv4CE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 21,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "UfEiJJGv4CE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/CbVxtxA5zHWrkQuc1OH3Ie49ijk\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS45NzUwQkI1M0UxNThBMkU0",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:00:11.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "There is no \"Fourth\" dimension",
+				"description": "Just because there are four dimensions doesn't mean there's a \"fourth dimension\"\n\n4D rubik's cube: http://www.superliminal.com/cube/cube.htm\n\nminutephysics is now on Google+ - http://bit.ly/qzEwc6 \nAnd facebook - http://facebook.com/minutephysics\nAnd twitter - @minutephysics\n\nMinute Physics provides an energetic and entertaining view of old and new problems in physics -- all in a minute!\n\nMusic by Nathaniel Schroeder\nNEW ALBUM!! -- http://juliansaporiti.bandcamp.com/album/lusitania\nyoutube: http://bit.ly/pakJLE\n\nThanks to Nima Doroud and Alex Yale for contributions and to Perimeter Institute for support.\nhttp://www.perimeterinstitute.ca\n\nCreated by Henry Reich Created by Henry Reich",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/M9sbdrPVfOQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/M9sbdrPVfOQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/M9sbdrPVfOQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/M9sbdrPVfOQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/M9sbdrPVfOQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 22,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "M9sbdrPVfOQ"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gFv46fmbm1jbcy8hP-kzHDgyQTY\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5DNzE1RjZEMUZCMjA0RDBB",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:01:32.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "how-to-imagine-the-tenth-dimension",
+				"description": "this is kinda cool\r\n\r\n\r\n#52 - Most Discussed (Today) - South Korea\r\n#1 - Most Discussed (Today) - Education - South Korea\r\n#2 - Most Discussed (This Week) - Education - South Korea\r\n#14 - Most Discussed (This Month) - Education - South Korea\r\n#68 - Most Viewed (Today) - Education - Canada\r\n#66 - Most Viewed (Today) - Education - Ireland\r\n#53 - Most Viewed (Today) - Education - New Zealand\r\n#74 - Most Viewed (Today) - Education - Israel\r\n#46 - Most Viewed (Today) - Education\r\n#66 - Most Viewed (Today) - Education - Netherlands\r\n#33 - Most Viewed (Today) - Education - Poland\r\n#28 - Most Viewed (Today) - Education - Sweden\r\n#42 - Most Viewed (This Month) - Education - South Korea\r\n#2 - Top Favorited (Today) - South Korea\r\n#7 - Top Favorited (Today) - Education\r\n#1 - Top Favorited (Today) - Education - South Korea\r\n#74 - Top Favorited (This Week) - South Korea\r\n#64 - Top Favorited (This Week) - Education\r\n#1 - Top Favorited (This Week) - Education - South Korea\r\n#2 - Top Favorited (This Month) - Education - South Korea\r\n#36 - Top Favorited (All Time) - Education - South Korea\r\n#28 - Top Rated (Today) - South Korea\r\n#66 - Top Rated (Today) - Education\r\n#1 - Top Rated (Today) - Education - South Korea\r\n#1 - Top Rated (This Week) - Education - South Korea\r\n#4 - Top Rated (This Month) - Education - South Korea",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/0ca4miMMaCE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/0ca4miMMaCE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/0ca4miMMaCE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 23,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "0ca4miMMaCE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9ODWV8CoIUDNKq_KJfWGXJsj9Xw\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS43MTI1NDIwOTMwQjIxMzNG",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:22:43.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Penn Jillette: Don't Leave Atheists Out on Christmas",
+				"description": "Atheist magician Penn Jillette questions Christian logic and the so-called War on Christmas:  \"Why leave me out?  Why do that?  What's your motive?  And trying to turn around a 'we want to leave you out,' into 'why are you forcing us to not have our joy,' is insanity.  It's backwards.\"\n\nTranscript--\nI don't think there's any attack against Christmas.  I think that seeing including other people in a seasonal joy, how can that be seen as an attack?  Maybe the greatest speech of our time, most probably the greatest speech of our time, is Martin Luther King's I Have a Dream speech.  What Martin Luther King does in that speech, Martin Luther King was a religious man.  Martin Luther King was a Reverend.  He says in that speech, he doesn't say this is just for Christians, he says it's for everybody.  He doesn't use the word \"Christian\" anywhere in the speech. He does refer to a God, he does say:  \"Free at last, Lord, Lord,\" but he is quoting a Spiritual.  He was a preacher who spoke in churches and yet when it was important to bring other people in, the, I have a Dream speech speaks to me, it speaks to atheists.\n\nAnd I don't care if you're talking about Walgreen's, if you're talking about sending out Christmas cards or your setting up something on a town square.  Why do you want to leave people out?  Why is it considered an attack to say \"holidays,\" to say \"seasonal?\"  I mean, don't you want other people to join you in joy? Why are you excluding other people?  I don't think there should be any sort of, you're not allowed to say Christmas.  I think you're fine putting up your trees.  I think you're fine talking about Santa Claus and you're fine talking about Jesus Christ, about equal to me.  But why leave me out?  Why do that?  What's your motive?  And trying to turn around a \"we want to leave you out,\" into \"why are you forcing us to not have our joy,\" is insanity.  It's backwards.  \n\nSo sure, sure, say Christmas, but you're leaving out right about now close to 30 percent of the population of the United States of America that you are telling, I'm not talking to you.  Why can't you just say, it's a beautiful season, we all love each other.  Let's all have a good time.  Why is that terrible?   I also think that the war on -- I mean, I would love to take the Christ out of Christmas.  I mean, I would love that.  I would love there to be a time of the year where everybody came together.  I mean, there's something that's happened in this country over the past, well 100 years, but really over the past 50 years, where this word \"Christian\" has become more important.  The early part of the 20th century, the late part of the 19th century, you had Baptists, you has Southern Baptists, you had Methodists, you had Congregationalists, you had Catholics, you had, you know, all these different kind of little sects.  You had Baptists and Southern Baptists and then Joe's Baptist and you know, Bill's Bait Shop and Baptist, you know, you had all these little groups.  And they were all kind of warring.  And then in many people's opinion, in order to fight abortion, to get a consensus and a strong group to fight that, they kind of adopted this word \"Christian,\" which isn't used much, even before Jimmy Carter, you know.  \n\nThe word, \"Christian\" to count the Catholics and the Protestants and all the Protestants all together and that allows them to say stuff like Christian Nation and allowed them to say stuff.  Because if you take each sect individually, well, non-religious is one of the biggest ones.  You have to do all of the Christians together, throw them all together to get this 60, 70 percent. \nSo I just think they should keep going.  Why stop at Christian?  Why not keep going to American?  Why not make the Christmas time of the year an American holiday and really include all Americans?  And then we keep going, why not include all people.  I mean, I don't see why you want to close people out.  It's your right to close people out; it's your right to have a club that people can't belong to.  But, why do you want to do it?  Why not just give a smile and welcome us in?  Welcome us into your stores, make a buck.  Welcome us into your homes, have a laugh.  You know, welcome us everywhere.  \n\nAnd doing holiday instead of Christmas brings everybody in.  Doesn't seem that terrible, but I certainly don't think there should be anything legal stopping people from saying all the Christmas stuff they want.  I am more in favor of freedom of religion than anyone I've ever met.  I am -- I think you should have all the prayer meetings you want all the time with any religion you have.  I'd rather you didn't do it on my dime.  I'd rather you do it on your own with the people that agree with you.\n\nDirected / Produced by Jonathan Fowler & Elizabeth Rodd",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/uh_gGQ9s5_Q/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/uh_gGQ9s5_Q/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/uh_gGQ9s5_Q/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/uh_gGQ9s5_Q/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/uh_gGQ9s5_Q/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 24,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "uh_gGQ9s5_Q"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/t638dr-WW-mQ5XSw-w1GXq6c12o\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:35:06.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: What's the Fate of the Universe? It's in the Dark Matter",
+				"description": "Why should you bother to wake up tomorrow knowing that we're all going to die billions and billions of years from now when the universe turns to absolute zero, when the stars blink out, when we have nothing but neutron stars and black holes? Dr. Kaku says that billions of years from now we may be able to move to a different universe.\n\nTranscript -- In cosmology we believe that the universe started off in a big bang 13.7 billion years ago.  All alternatives have been pretty much ruled out.  Steady state theories, other alternatives have been ruled out.  However, how will the universe end?  We have several possibilities.  One possibility is a big crunch when the universe squashes together in a gigantic ball of flame and maybe bangs once again.  Another possibility is the big freeze, that the universe expands and just keeps on going and we're all going to freeze to death and we're all going to die when the universe reaches near absolute zero.  Then there is something called the big rip where the universe goes into an exponential expansion and expands so rapidly that the distant galaxies can no longer be seen because they travel faster than the speed of light, that even the distant galaxies break the light barrier, and that's called the big rip, meaning that the night sky will be totally black except for some of the nearby stars.  \n\nWhich of the three alternatives is the fate of the universe?  Well, the short answer is we don't know.  However, what we do know is that the universe is undergoing an exponential runaway expansion.  The universe at the present time is careening out of control.  Every astronomy textbook says that there was a big bang.  The universe is expanding, but it's slowing down.  It also says that the universe is mainly made out of atoms.  Every textbook says that.  The universe is made out of atoms.  The universe is expanding, but slowing down.  Both are wrong.  We have to rewrite every single high school textbook on the planet earth.  The universe is not mainly made out of atoms.  \n\nFour percent of the universe is made out of atoms, just four percent.  23% is made out of dark matter.  73%, which makes up most of the universe, is dark energy, and unfortunately, we are clueless as to what dark energy is and what dark matter is.  In fact, if you ever find out what dark energy and dark matter is, be sure to tell me first.  \n\nNow why is that important?  Because the amount of matter and energy in the universe determines the rate of expansion.  We now know there is a lot more dark energy than we previously thought.  Therefore, the universe is undergoing an inflationary exponential expansion.  It is in a runaway mode, but here is the catch: we don't know how long that runaway mode is going to last.  Some people say that it's temporary.  We're in this huge expansion right now, exponential expansion, but it's going to reverse itself.  Instead of a red shift, we'll have a blue shift as the universe collapses.  At the present time we simply don't know.  Why don't we know?  Because we don't know what dark energy is.  In fact, if you were to try to write down a theory of dark energy, your number would not correspond to the data by a mismatch of 10 to the 120.  That is the largest mismatch in the history of science.  There is no mismatch bigger than 10 to the 120.  So this is a mystery.  Until we solve the mystery of dark energy, we do not know the ultimate fate of the universe.  \n\nMy personal thoughts are that perhaps we will continue with this exponential expansion and perhaps go into a big rip mode and at that point all intelligent life in the universe will die.  All the tears and all the struggles and all the heartbreak of humanity since we rose from the swamp, it's all for nothing.  Why should you bother to wake up tomorrow knowing that we're all going to die billions and billions of years from now when the universe turns to absolute zero, when the stars blink out, when we have nothing but neutron stars and black holes?  What does it all mean anyway, if we're all going to die in a big rip?\n\nWell, my personal attitude is that when the universe is about to die, why not leave the universe?  Trillions of years from now, we will have the ability to bend space and time into a pretzel.  We'll be able to tie space into knots.  We'll be what is called a type three, maybe a type four civilization, a galactic civilization with the capability of harnessing galactic power.  At that point, when the universe becomes so cold that all life is freezing to death, I say let us escape the universe, go into hyperspace and go to another universe.\n\nDirected / Produced by Jonathan Fowler and Elizabeth Rodd",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/R5orcCuprG4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/R5orcCuprG4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/R5orcCuprG4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/R5orcCuprG4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/R5orcCuprG4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 25,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "R5orcCuprG4"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pWGNFIZUlfxadrfuqsX32xZHi24\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4yQUE2Q0JEMTk4NTM3RTZC",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:37:19.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: Can Nanotechnology Create Utopia?",
+				"description": "Dr. Kaku addresses the question of the possibility of utopia, the perfect society that people have tried to create throughout history. These dreams have not been realized because we have scarcity. However, now we have nanotechnology, and with nanotechnology, perhaps, says Dr. Michio Kaku, maybe in 100 years, we'll have something called the replicator, which will create enormous abundance. \n\nRead more at BigThink.com: http://bigthink.com/dr-kakus-universe/can-nanotechnology-create-utopia\n\nFollow Big Think here:\nYouTube: https://www.youtube.com/user/bigthink\nFacebook: https://www.facebook.com/BigThinkdotcom\nTwitter: https://twitter.com/bigthink\n\nTranscript:\nThroughout human history people have tried to create utopia, the perfect society.  In fact, America, the American dream, in some sense was based on utopianism.  Why do we have the Shaker movement?  Why did we have the Quakers?  Why did we have so many different kinds of religious movements that fled Europe looking to create a utopia here in the Americas?  Well, we know the Shakers have disappeared and many of these colonies have also disappeared only to be found in footnotes in American textbooks, and the question is why?\n\nOne reason why is scarcity because back then the industrial revolution was still young and societies had scarcity.  Scarcity creates conflict and unless you have a way to resolve conflict, your colony falls apart.  How do you allocate resources?  Who gets access to food when there is a famine?  Who gets shelter when there is a snowstorm and all of the sudden you've eaten up your seed corn?  These are questions that faced the early American colonists, and that's the reason why we only see the ghost towns of these utopias.  \n\nHowever, now we have nanotechnology, and with nanotechnology, perhaps, who knows, maybe in 100 years, we'll have something called the replicator.  Now the replicator is something you see in Star Trek.  It's called the molecular assembler and it takes ordinary raw materials, breaks them up at the atomic level and joins the joints in different ways to create new substances.  If you have a molecular assembler, you can turn, for example, a glass into wood or vice versa.  You would have the power of a magician, in fact, the power of a god, the ability to literally transform the atoms of one substance into another and we see it on Star Trek.\n\nIt's also the most subversive device of all because if utopias fail because of scarcity then what happens when you have infinite abundance?  What happens when you simply ask and it comes to you?  One of my favorite episodes on Star Trek is when the Enterprise encounters a space capsule left over from the 20th century, the bad 20th century.  People died of all these horrible diseases, and many people froze themselves knowing that in the 23rd century or so they'll be thawed out and their diseases will be cured.  Well, sure enough, it's the 23rd century now.  The Enterprise finds a space capsule and begins to revive all these people and cure them of cancer, cure them of incurable genetic diseases, and then one of these individuals, however, was a banker.  He is revived and he says to himself, \"My God, my gamble worked; I'm alive; I'm in the 23rd century,\" and he said, \"Call my stock broker; call my banker; I am rich; I am rich; my investments, they have been sitting there in the bank for centuries; I must be a quadrillionaire!\"  And then the crew of the Enterprise looks at this man and says, \"What is money; what is a bank; what is a stock broker?  We don't have any of these in the 23rd century,\" and then they say, \"If you want something, you simply ask for it and you get it.\"\n\nNow that's subversive.  That's revolutionary because if all utopian societies vanished because of scarcity and conflict, what happens when there is no scarcity?  What happens when you simply ask and you get what you want?  This has enormous philosophical implications.  For example, why bother to work?  Why bother to go to work when you simply ask for things and it comes to you?",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/RzgVWpa4fzU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/RzgVWpa4fzU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/RzgVWpa4fzU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/RzgVWpa4fzU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/RzgVWpa4fzU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 26,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "RzgVWpa4fzU"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rpVVE8or7piDZmtu1HhN9sVc4-g\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5DMkU4NTY1QUFGQTYwMDE3",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:41:01.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: The Universe in a Nutshell (Full Presentation)",
+				"description": "What if we could find one single equation that explains every force in the universe? Dr. Michio Kaku explores how physicists may shrink the science of the Big Bang into an equation as small as Einstein's \"e=mc^2.\" Thanks to advances in string theory, physics may allow us to escape the heat death of the universe, explore the multiverse, and unlock the secrets of existence. While firing up our imaginations about the future, Kaku also presents a succinct history of physics and makes a compelling case for why physics is the key to pretty much everything.\n\nDon't miss new Big Think videos! Subscribe by clicking here: http://goo.gl/CPTsV5\n\nKaku's latest book is  The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind (http://goo.gl/kGrVaR).\n\nThe Universe in a Nutshell: The Physics of Everything\nMichio Kaku, Henry Semat Professor of Theoretical Physics at CUNY\n\n\nThe Floating University\nOriginally released September, 2011.\n\nDirected / Produced by Jonathan Fowler, Kathleen Russell, and Elizabeth Rodd",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/0NbBjNiw4tk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/0NbBjNiw4tk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/0NbBjNiw4tk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/0NbBjNiw4tk/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/0NbBjNiw4tk/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 27,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "0NbBjNiw4tk"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/IMXiOD7_TytOAloCH0GQP_gA_8E\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS43NDhFRTgwOTRERTU4Rjg3",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:47:35.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: The Search for Life on Mars",
+				"description": "Where should NASA go to look for intelligent life on Mars? To get to the truth, journalists say follow the money. Astronomers say follow the water. Dr. Michio Kaku says \"if you were a Martian on Mars three billion years ago when Mars was probably a lush environment with liquid water oceans—and you realized that the water was escaping to the icecaps, escaping into outer space or going into the permafrost,\" then you would \"probably go either into outer space to leave Mars or drill into the permafrost or go into the polar icecaps. So I think that's what NASA is going to do next.\"\n\nOriginally recorded August 9, 2012.\n\nTranscript--\n\nDr. Michio Kaku: Congratulations to NASA!  NASA scored a gold medal on Mars, a ten.  It was a perfect launch, perfect execution, and the dismount was a perfect ten on the Red Planet.  But that's just the first step of many steps to come.  Next we want to go to perhaps the polar icecaps or perhaps even drill underground.  \n\nIf you were a Martian on Mars three billion years ago when Mars was practically a—probably a lush environment with liquid water oceans—and you realized that the water was escaping to the icecaps, escaping into outer space or going into the permafrost, where would you go?  Journalists say follow the money.  Astronomers say follow the water.  And if the water is going to go into outer space, underground or the polar icecaps, you would also probably go either into outer space to leave Mars or drill into the permafrost or go into the polar icecaps.  So I think that's what NASA is going to do next.  Of course, it's more difficult to land on the polar icecaps because the terrain is quite rocky.  \n\nAlso, rock retrieval; we need to actually take rocks from Mars and bring them back to earth because we have tantalizing evidence that possibly microbial life existed on Mars.  We have Mars rocks right here on the planet earth, and when you slice them open you see little tiny, squiggly things that look like multi-celled organisms.  Well, we're not sure.  It's a raging debate.  Some people say bah-humbug, it's nothing but a crystalline structure that seems to look like a multi-cell organism.  The result of the question is we have to have rock retrieval and after that I think perhaps we should put a blimp or a helicopter on Mars.  Now the atmosphere of Mars is quite thin, only one percent the atmospheric pressure here on the planet earth, so the wings of the helicopter or the size of a blimp would have to be different to compensate for that.  \n\nAnd then of course we should try for a manned mission to Mars.  But let's be real.  It's going to be expensive and it will take time.  It costs $10,000 to put a pound of anything into near earth orbit.  Imagine your body made out of solid gold and that's the cost to put you into orbit around the planet earth.  To put you on the moon costs about $100,000 a pound.  To put you on Mars costs about a million dollars a pound.  So think twice before you think that we're going to go to Mars with astronauts in the next few years.  It's going to take decades to prepare for a manned mission to Mars.\n\nDirected / Produced by\nJonathan Fowler and Elizabeth Rodd\n\nhttp://bigthink.com/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/p-6mnzyIhaE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/p-6mnzyIhaE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/p-6mnzyIhaE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/p-6mnzyIhaE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/p-6mnzyIhaE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 28,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "p-6mnzyIhaE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/cRf57tNW4SlMu_xyJEbENZ81K8Q\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41QUZGQTY5OTE4QTREQUU4",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:50:29.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: What Is Déjà Vu?",
+				"description": "Don't miss new Big Think videos!  Subscribe by clicking here: http://goo.gl/CPTsV5\n\nDr. Michio Kaku explains one theory behind déjà vu and asks, \"Is it ever possible on any scale to perhaps flip between different universes?\"",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Ks_UHmaZcSg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Ks_UHmaZcSg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Ks_UHmaZcSg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Ks_UHmaZcSg/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Ks_UHmaZcSg/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 29,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Ks_UHmaZcSg"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/9chhtVocmupU4H9y4fa9ADX9Hfw\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5CMEQ2Mjk5NTc3NDZFRUNB",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:53:10.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: Mankind Has Stopped Evolving",
+				"description": "Don't miss new Big Think videos!  Subscribe by clicking here: http://goo.gl/CPTsV5\n\nThere are no more evolutionary pressures driving gross human evolution, but that doesn't mean we won't be able to genetically re-engineer ourselves in the future.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UkuCtIko798/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UkuCtIko798/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UkuCtIko798/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/UkuCtIko798/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/UkuCtIko798/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 30,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "UkuCtIko798"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/fsP7Qd7oP05N6i7l63QnH1Z_oMw\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS42MTI4Njc2QjM1RjU1MjlG",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:55:16.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: Why Batteries Are Primitive",
+				"description": "Don't miss new Big Think videos!  Subscribe by clicking here: http://goo.gl/CPTsV5\n\nhttp://bigthink.com/michiokaku",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/PewMgx753G0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/PewMgx753G0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/PewMgx753G0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/PewMgx753G0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/PewMgx753G0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 31,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "PewMgx753G0"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/wPWg2Iei01EQArlUdXlxr1nWZow\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS45RjNFMDhGQ0Q2RkFCQTc1",
+			"snippet": {
+				"publishedAt": "2012-12-12T11:59:38.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Michio Kaku: The Dark Side of Technology",
+				"description": "Don't miss new Big Think videos!  Subscribe by clicking here: http://goo.gl/CPTsV5\n\nDr. Michio Kaku addresses this question: What is the most dangerous technology?\n\nDirected / Produced by\nJonathan Fowler and Elizabeth Rodd",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/dTi4v3HveqE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/dTi4v3HveqE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/dTi4v3HveqE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/dTi4v3HveqE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/dTi4v3HveqE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 32,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "dTi4v3HveqE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GrTBMI2Mubhuw_NDR2KNEHPywn8\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS40QTA3NTU2RkM1QzlCMzYx",
+			"snippet": {
+				"publishedAt": "2012-12-13T08:30:19.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Top 5 Deadliest Diseases",
+				"description": "Hank scares our pants off with a tale of the five deadliest infectious diseases in the world.   \n\nLike SciShow: http://www.facebook.com/scishow\nFollow SciShow: http://www.twitter.com/scishow\n\nReferences for this episode can be found in the Google document here: http://dft.ba/-3rSt",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/gf2bObJGFkg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/gf2bObJGFkg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/gf2bObJGFkg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 33,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "gf2bObJGFkg"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aq6McVnyq-5SYP9sqwHSmRsZj0s\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5BRjJDODk5REM0NjkzMUIy",
+			"snippet": {
+				"publishedAt": "2012-12-13T08:32:16.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The Scientific Power of Music",
+				"description": "TWEET IT: http://clicktotweet.com/SR316\n\nIs music humanity's drug of choice? What is the mysterious power behind it's ability to captivate, stimulate and keep us coming back for more? Find out the scientific explanation of how a simple mixture of sound frequencies can affect your brain and body, and why it's not all that different than a drug like cocaine.\n\nWritten and created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).\n\nTWITTER: http://www.twitter.com/AsapSCIENCE\nFACEBOOK: http://www.facebook.com/AsapSCIENCE\n\nMusic by Mitchell Moffit\nhttp://www.mitchellmoffit.com\nhttp://www.twitter.com/mitchellmoffit\nhttp://www.facebook.com/mitchellmoffit\n\nArt by Gregory and Mitchell\nhttp://www.gregorybrownart.tumblr.com\nhttp://www.twitter.com/whalewatchmeplz\n\nSome Sources ---\n\nDopamine Release during Music:\n\n1) http://bit.ly/lLSWFN\n2) http://bit.ly/eZZNVi\n\nEmotional Response to Music:\n\n3) http://bit.ly/NbowZP\n\nCocaine and Your Brain:\n\n4) http://bit.ly/NBKdOB",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/SePL2w5f6dE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/SePL2w5f6dE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/SePL2w5f6dE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/SePL2w5f6dE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/SePL2w5f6dE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 34,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "SePL2w5f6dE"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MyjmIB_GidTe940kefynWIEkkjE\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4xOTEzQzhBQzU3MDNDNjcz",
+			"snippet": {
+				"publishedAt": "2012-12-14T13:58:21.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Human Population Growth - Crash Course Ecology #3",
+				"description": "If being alive on Earth were a contest, humans would win it hands down.  We're like the Michael Phelps of being alive, but with 250,000 times more gold medals. Today Hank is here to tell us the specifics of why and how human population growth has happened over the past hundred and fifty years or so, and how those specifics relate to ecology. \n\n\nLike CrashCourse?  http://www.facebook.com/YouTubeCrashCourse\nFollow CrashCourse!  http://www.twitter.com/TheCrashCourse\n\n\nTable of Contents\n1) R vs. K Selection Theory 01:41:1\n2) Causes of Exponential Human Growth 03:24\n3) Human Carrying Capacity 03:30:2\n4) Ecological Footprints 06:40:1\n5) Causes for Decline in Human Growth Rate 08:10:1 Support CrashCourse on Subbable: http://subbable.com/crashcourse",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/E8dkWQVFAoA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/E8dkWQVFAoA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/E8dkWQVFAoA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/E8dkWQVFAoA/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/E8dkWQVFAoA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 35,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "E8dkWQVFAoA"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ErGr0wAA4rzHJcOqvNT2c4LHlBk\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5GNDg1Njc1QzZERjlFRjE5",
+			"snippet": {
+				"publishedAt": "2012-12-15T08:56:49.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The Power of Introverts - Ep 1",
+				"description": "This is a video series about introverts based on the book \"Quiet\" by Susan Cain.\nSubscribe to be notified when we release the next episode.\n\nAdd us on Facebook: http://www.facebook.com/dwlfilms\n\nCreated and Narrated by Daniel Widfeldt Lomas:\ndanielwidfeldt@hotmail.com\n\nAnimated by Petri Ljatif:\npetrit.ljatif@hotmail.se\n\nMusic by Daniel Bayard:\nba.yard@live.com\n\nTo buy the book or to read more about the subject visit:\nhttp://www.thepowerofintroverts.com/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 36,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Ar1kEN_ZPNM"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/jyMFlmbpudfGWGrmNrYnWK2KuNY\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4zQzFBN0RGNzNFREFCMjBE",
+			"snippet": {
+				"publishedAt": "2012-12-18T00:14:28.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "What Do Santa and Wrestling Have In Common? | Idea Channel | PBS Digital Studios",
+				"description": "Viewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/donateidea\n\nDoes Santa Have more in Common with Hulk Hogan than St. Nick?\n\nPeople love Santa. Christmas is the largest holiday in western culture, and Santa Claus is the centerpiece of that holiday (sorry baby Jesus). But even though our understanding of Santa changes as we mature, we still maintain and cultivate our culture's love of him. And to understand why this is, we had to ask: Is our relationship with Santa similar to wrestling? Though (SPOILER) wrestling is more entertainment than sport, we still enjoy watching it. So it begs the question are Santa, Hulk Hogan and the Rock more similar than different??!?? Watch the episode and find out!\n\n\nIdea Channel Facebook!\nhttp://Facebook.com/pbsideachannel\n\n\nMusic:\n\nRoglok: http://vimeo.com/musicstore/track/21166\nEatMe: http://www.jamendo.com/en/artist/348390/eatme\nClockwork - Titan (geometry remix): http://soundcloud.com/wompworthy/clockwork-titan-geometry-remix\n\n\nWant some more Idea Channel?\n\nHere's Last Week's episode: \"Are Cell Phones Replacing Reality?\" http://youtu.be/8AXIAM7dTTg\n\n Want another one? Here ya go: \"Should 'Happy Birthday' be Protected by Copyright?\" http://youtu.be/fzbSt0QG7mY\n\nHere's Some More: \"Is Nostalgia the Reason for Adventure Time's Amazing Awesomeness?\" http://youtu.be/7MVvkqbXiws",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/M26bDPKk-qs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/M26bDPKk-qs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/M26bDPKk-qs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/M26bDPKk-qs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/M26bDPKk-qs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 37,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "M26bDPKk-qs"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eGd-OvUaVQAeZUTC7My2rz0BGbI\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS45NkVENTkxRDdCQUFBMDY4",
+			"snippet": {
+				"publishedAt": "2012-12-19T06:22:48.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Man stays awake for 11 days without sleep",
+				"description": "In this clip it shows a man who has broken the record for the longest time ever a human has stayed awake with no sleep.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/zLnf2YH2jms/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/zLnf2YH2jms/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/zLnf2YH2jms/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 38,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "zLnf2YH2jms"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/PElkEbgwleU85sWqlqtGMrZC2I8\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5DNkMwRUI2MkI4QkI4NDFG",
+			"snippet": {
+				"publishedAt": "2012-12-20T05:22:15.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Is There Poop on the Moon? ft. Smarter Every Day",
+				"description": "What else did we leave on the moon? Smarter Every Day explains: http://bit.ly/JunkOnTheMoon\nPlay with a corner reflector: http://labs.minutelabs.io/Optics/corner-reflector/\n\nUS Space and Rocket Center: http://www.spacecamp.com/museumHome\n\nMinutePhysics is on Google+ - http://bit.ly/qzEwc6 \nAnd facebook - http://facebook.com/minutephysics\nAnd twitter - @minutephysics\n\nMinute Physics provides an energetic and entertaining view of old and new problems in physics -- all in a minute!\n\nMusic by Nathaniel Schroeder http://www.soundcloud.com/drschroeder\n\nThanks to Nima Doroud for contributions and to Perimeter Institute for support.\nhttp://www.perimeterinstitute.ca Created by Henry Reich",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/QNP8wy3S_kY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/QNP8wy3S_kY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/QNP8wy3S_kY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/QNP8wy3S_kY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/QNP8wy3S_kY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 39,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "QNP8wy3S_kY"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/MH5IfVECrIMmTv6SlsTElIxJMz0\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5DRUQwODMxQzUyRTlGRkY3",
+			"snippet": {
+				"publishedAt": "2012-12-21T09:24:16.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "What is color? - Colm Kelleher",
+				"description": "Watch the whole lesson on http://ed.ted.com/lessons/how-do-we-see-color-colm-kelleher\n\nHave you ever wondered what color is? In this first installment of a series on light, Colm Kelleher describes the physics behind colors-- why the colors we see are related to the period of motion and the frequency of waves.\n\nLesson by Colm Kelleher, animation by Vitreous.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UZ5UGnU7oOI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UZ5UGnU7oOI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UZ5UGnU7oOI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/UZ5UGnU7oOI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/UZ5UGnU7oOI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 40,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "UZ5UGnU7oOI"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/ANUFk30fg-FdtS7GD79frpk5VE8\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41MzY4MzcwOUFFRUU3QzEx",
+			"snippet": {
+				"publishedAt": "2012-12-21T09:24:24.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Do We Want the World to End? | Idea Channel | PBS Digital Studios",
+				"description": "Viewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/donateidea\n\nThe 2012 Mayan Apocalypse is only a few days away . . .\n\nand there are a lot of people wondering if it's going to happen. Sorry to burst your bubble, but (Spoiler Alert) nothing's going to change.The so-called Mayan long count calendar predication of the apocalypse is based a fundamental MISUNDERSTANDING of Mayan calendars and society. It's so far off base that scientific and anthropological experts can dismiss it with laugh. Yet, if it's so fundamentally wrong, why do we keep hearing about it? Why are there movies and news casts and websites dedicated to this non-event? Watch the episode and find out!!!!\n\nEyebrow GIF!!\nhttp://i.imgur.com/nsZWd.gif\n\nIdea Channel Facebook!\nhttp://Facebook.com/pbsideachannel\n\n\nMusic:\n\nRoglok: http://vimeo.com/musicstore/track/21166\nClockwork - Titan (geometry remix): http://soundcloud.com/wompworthy/clockwork-titan-geometry-remix\n\n\nWant some more Idea Channel?\n\nHere's Last Week's episode: \"What Do Santa and Wrestling Have In Common?\" http://youtu.be/M26bDPKk-qs\n\nWant another one? Here ya go: \"Are Cell Phones Replacing Reality?\" http://youtu.be/8AXIAM7dTTg\n\nHere's Some More: \"Should 'Happy Birthday' be Protected by Copyright?\" http://youtu.be/fzbSt0QG7mY",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/vzNSx0LFt2E/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/vzNSx0LFt2E/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/vzNSx0LFt2E/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/vzNSx0LFt2E/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/vzNSx0LFt2E/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 41,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "vzNSx0LFt2E"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/Uo28T8z2Is82QL7MrCv4zqJpAaw\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4yQjZFRkExQjFGODk3RUFD",
+			"snippet": {
+				"publishedAt": "2012-12-21T09:30:43.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Is it Better to Walk or Run in the Rain?",
+				"description": "Subscribe to MinutePhysics - it's FREE! http://dft.ba/-minutephysics_sub\n\nFor recent scientific publications on the walk/rain question: http://iopscience.iop.org/0143-0807/33/5/1321\n\nMinutePhysics is on Google+ - http://bit.ly/qzEwc6 \nAnd facebook - http://facebook.com/minutephysics\nAnd twitter - @minutephysics\n\nMinute Physics provides an energetic and entertaining view of old and new problems in physics -- all in a minute!\n\nMusic by Nathaniel Schroeder http://www.soundcloud.com/drschroeder\n\nThanks to Nima Doroud for contributions and to Perimeter Institute for support.\nhttp://www.perimeterinstitute.ca\n\nCreated by Henry Reich Created by Henry Reich",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/3MqYE2UuN24/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/3MqYE2UuN24/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/3MqYE2UuN24/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/3MqYE2UuN24/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/3MqYE2UuN24/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 42,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "3MqYE2UuN24"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/mwAQV9A3spYupXB-3ll8WxQhvyc\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4yQUJFNUVCMzVDNjcxRTlF",
+			"snippet": {
+				"publishedAt": "2012-12-21T10:13:20.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The Power of Introverts - Ep 1",
+				"description": "This is a video series about introverts based on the book \"Quiet\" by Susan Cain.\nSubscribe to be notified when we release the next episode.\n\nAdd us on Facebook: http://www.facebook.com/dwlfilms\n\nCreated and Narrated by Daniel Widfeldt Lomas:\ndanielwidfeldt@hotmail.com\n\nAnimated by Petri Ljatif:\npetrit.ljatif@hotmail.se\n\nMusic by Daniel Bayard:\nba.yard@live.com\n\nTo buy the book or to read more about the subject visit:\nhttp://www.thepowerofintroverts.com/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Ar1kEN_ZPNM/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 43,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Ar1kEN_ZPNM"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/j3UX56rt3e6qJLa-H8VDjcqrVN8\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS40QzRDOEU0QUYwNUIxN0M1",
+			"snippet": {
+				"publishedAt": "2012-12-22T06:34:49.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Why Astronauts left a reflector on the Moon! (ft. MinutePhysics) - Smarter Every Day 73",
+				"description": "There's poop on the moon? MinutePhysics Explains! http://bit.ly/PoopOnMoon\nGo Play with a Corner Reflector: http://dft.ba/-cornerreflector\nFOLLOW SED ON TWITTER! http://twitter.com/SmarterYoutube\nMusic Download: http://bit.ly/SED_Album\n\nInstead of saving for my kids' college, I make videos using the money I would have saved.\nThe thought is it will help educate the world as a whole, and one day generate enough revenue to pay for their education. Until then if you appreciate what you've learned in this video and the effort that went in to it, please SHARE THE VIDEO!\n\nf you REALLY liked it, feel free to pitch a few dollars towards their college fund by clicking here:\nhttp://bit.ly/KidsCollege",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/dsRsap2_RAc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/dsRsap2_RAc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/dsRsap2_RAc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/dsRsap2_RAc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 44,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "dsRsap2_RAc"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/LCgyxFVv2eNePUD4WVPWisEYIMs\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS41RTNBREYwMkI5QzU3RkY2",
+			"snippet": {
+				"publishedAt": "2012-12-22T07:27:27.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "43,252,003,274,489,856,000 Rubik's Cube Combinations - Numberphile",
+				"description": "There are 43,252,003,274,489,856,000 ways to arrange a standard 3x3 Rubik's Cube.\nMore links & stuff in full description below ↓↓↓\n\nSee our full series of Rubik's Cube videos at: http://www.youtube.com/playlist?list=PLt5AfwLFPxWJNAdHv8TUCOmj7iKqyHZeg\n\nThis video features Matt Parker, James Grime and Katie Steckles.\n\nWith thanks to Drew Mokris for doing the animation: http://www.spinnerdisc.com/\n\nWith thanks to Feliks Zemdegs for use of one of his many world-record breaking videos:  http://www.youtube.com/user/fazrulz1\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/QV9k6dRQQe4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/QV9k6dRQQe4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/QV9k6dRQQe4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/QV9k6dRQQe4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/QV9k6dRQQe4/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 45,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "QV9k6dRQQe4"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/6snOQw0CGoAyKKleOfyR5OhvJNs\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS5ENjI1QUI0MDI5NEQzODFE",
+			"snippet": {
+				"publishedAt": "2012-12-22T08:17:24.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "Can Money Buy Happiness?",
+				"description": "TWEET IT - http://clicktotweet.com/dAeY6\n\nWe often hear it, but how true is the phrase 'Money can't buy happiness'? Is there a correlation between the two, and if so, what can we learn from it? It turns out, if you think money and happiness are exclusive, you simply aren't spending it right.\n\nWritten and created by Mitchell Moffit (twitter @mitchellmoffit) and Gregory Brown (twitter @whalewatchmeplz).\n\nTWITTER: http://www.twitter.com/AsapSCIENCE\nFACEBOOK: http://www.facebook.com/AsapSCIENCE\n\nMitchell Moffit\nhttp://www.mitchellmoffit.com\nhttp://www.twitter.com/mitchellmoffit\nhttp://www.facebook.com/mitchellmoffit\n\nGregory\nhttp://www.gregorybrownart.tumblr.com\nhttp://www.twitter.com/whalewatchmeplz\n\nSome sources---\n\nPro-Social Spending:\n1) http://bit.ly/V8HaoG\n2) http://bit.ly/R6W4eB\n3) http://bit.ly/V8HljC\n\nQuality of Life vs Emotional Well-Being:\n4) http://bit.ly/T9MQhq\n\nOther Happiness Principles:\n5) http://hvrd.me/XP3Vfc",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/JSIkdWxotKw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/JSIkdWxotKw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/JSIkdWxotKw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/JSIkdWxotKw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/JSIkdWxotKw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 46,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "JSIkdWxotKw"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/KqRCrxDaQeO6QOfRxGc5aFTt_VA\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS44QzVGQUU2QjE2NDgxM0M4",
+			"snippet": {
+				"publishedAt": "2012-12-22T08:55:09.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "One to One Million - Numberphile",
+				"description": "Puzzles, classroom stories and the great Carl Gauss - oh, and adding every digit in the numbers between one and one million!\nMore links & stuff in full description below ↓↓↓\n\nFeaturing Dr James Grime - http://singingbanana.com/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Dd81F6-Ar_0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Dd81F6-Ar_0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Dd81F6-Ar_0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Dd81F6-Ar_0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 47,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "Dd81F6-Ar_0"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/X3MJ7fVFQilH7oYHnG6zgd0EIDk\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4xMzgwMzBERjQ4NjEzNUE5",
+			"snippet": {
+				"publishedAt": "2012-12-25T22:49:04.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "4937775 - Numberphile",
+				"description": "4937775 is a Smith Number - as are 27, 666 and infinite others!\nMore links & stuff in full description below ↓↓↓\n\nSmith Numbers were first discovered in a phone book, explains Professor Ed Copeland from the University of Nottingham. Ed Tweets: https://twitter.com/ProfEdCopeland\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mlqAvhjxAjo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mlqAvhjxAjo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mlqAvhjxAjo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/mlqAvhjxAjo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/mlqAvhjxAjo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 48,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "mlqAvhjxAjo"
+				}
+			}
+		},
+		{
+			"kind": "youtube#playlistItem",
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/f9Tz5B-N0KQhuhDAiajQ1lglFxc\"",
+			"id": "UExJQ05LZnZHT0NLem1rTlNPb2ZzOFNEVDVCaTlSTmE0aS4zMEQ1MEIyRTFGNzhDQzFB",
+			"snippet": {
+				"publishedAt": "2012-12-25T22:53:49.000Z",
+				"channelId": "UCReB7-OJFNhuIuH_LsDbrZQ",
+				"title": "The Science of Overpopulation",
+				"description": "Hank talks about the issues of rising global population.\n\nLike SciShow on Facebook: http://www.facebook.com/scishow\nFollow SciShow on Twitter: http://www.twitter.com/scishow\n\nSources: \nLife Expectancy: http://www.data360.org/dsg.aspx?Data_Set_Group_Id=195\nDemographics: http://www.sciencemag.org/content/suppl/2011/07/28/333.6042.649-b.DC1/SciencePodcast_110729.pdf\nhttp://dotearth.blogs.nytimes.com/2011/08/02/a-fresh-look-at-population-bombs-and-bulges/\nhttp://business.blogs.cnn.com/2011/11/29/sex-deficit-bad-for-japans-bottom-line/\nEnvironment: http://www.time.com/time/specials/packages/article/0,28804,2097720_2097782_2097814,00.html\nhttp://ecocentric.blogs.time.com/2010/10/26/wildlife-biodiversity-is-declining-fast—but-it-would-be-even-worse-without-conservation-efforts/\nHunger: http://www.grida.no/publications/other/geo3/?src=/geo/geo3/english/fig308.htm\nVarious stuff: National Geo infographic: http://www.youtube.com/watch?v=sc4HxPxNrZ0\nImage:\nhttp://en.wikipedia.org/wiki/File:Thomas_Malthus.jpg",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/dD-yN2G5BY0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/dD-yN2G5BY0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/dD-yN2G5BY0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/dD-yN2G5BY0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Eric Stepp",
+				"playlistId": "PLICNKfvGOCKzmkNSOofs8SDT5Bi9RNa4i",
+				"position": 49,
+				"resourceId": {
+					"kind": "youtube#video",
+					"videoId": "dD-yN2G5BY0"
+				}
+			}
+		}
+	]
+}
