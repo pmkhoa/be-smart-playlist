@@ -1,8 +1,10 @@
 const jsonServer = require('json-server')
 const playlist = require('./playlist.json')
+const videos = require('./video.json')
 
 const routes = {
   playlistItems: playlist,
+  videos: videos,
 }
 
 const server = jsonServer.create()
