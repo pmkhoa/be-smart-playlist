@@ -16,6 +16,10 @@ self.__precacheManifest = [
     "url": "/be-smart-playlist/static/js/runtime~main.7298336f.js"
   },
   {
+    "revision": "46eab40096cc833cf2bcf27658486b90",
+    "url": "/be-smart-playlist/static/media/icomoon.46eab400.eot"
+  },
+  {
     "revision": "77abe20e5eb5712691f2e7711a3c0c03",
     "url": "/be-smart-playlist/static/media/icomoon.77abe20e.ttf"
   },
@@ -26,10 +30,6 @@ self.__precacheManifest = [
   {
     "revision": "f0a541bdf7ea149958bc8409cc85d320",
     "url": "/be-smart-playlist/static/media/icomoon.f0a541bd.woff"
-  },
-  {
-    "revision": "46eab40096cc833cf2bcf27658486b90",
-    "url": "/be-smart-playlist/static/media/icomoon.46eab400.eot"
   },
   {
     "revision": "a11999417512896cff36d6ec73f5e76e",
