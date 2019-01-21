@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/be-smart-playlist/static/js/runtime~main.7298336f.js"
   },
   {
-    "revision": "46eab40096cc833cf2bcf27658486b90",
-    "url": "/be-smart-playlist/static/media/icomoon.46eab400.eot"
-  },
-  {
     "revision": "77abe20e5eb5712691f2e7711a3c0c03",
     "url": "/be-smart-playlist/static/media/icomoon.77abe20e.ttf"
+  },
+  {
+    "revision": "46eab40096cc833cf2bcf27658486b90",
+    "url": "/be-smart-playlist/static/media/icomoon.46eab400.eot"
   },
   {
     "revision": "2bb84427589d4602863509ac9fedecd0",

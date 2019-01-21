@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/be-smart-playlist/precache-manifest.39ffe096ac013ce0d1df87a7ce9ab41e.js"
+  "/be-smart-playlist/precache-manifest.b455fde01d37855fe5341c426c93d3ce.js"
 );
 
 workbox.clientsClaim();
