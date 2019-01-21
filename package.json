@@ -2,6 +2,7 @@
   "name": "the-imdb",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://pmkhoa.github.io/be-smart-playlist",
   "dependencies": {
     "axios": "^0.18.0",
     "lodash": "^4.17.11",
@@ -17,7 +18,9 @@
     "start:mock": "nodemon src/__mocks__/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -29,6 +32,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "json-server": "^0.14.2",
     "nodemon": "^1.18.9"
   }
