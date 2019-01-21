@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { styled, Box } from 'reakit'
 import get from 'lodash/get'
+import sample from 'lodash/sample'
 import Nav from '../components/Nav'
 import Sidebar from '../components/Sidebar'
 import Player from '../components/Player'
@@ -61,9 +62,9 @@ class App extends Component {
     this.setState({ playlist: playlist })
 
     const videoId = window.location.hash.replace('#videoId=', '')
-    const firstVideoId = get(playlist, '[0].snippet.resourceId.videoId')
+    const randomVideoId = get(sample(playlist), 'snippet.resourceId.videoId')
     if (!videoId) {
-      window.location.hash = `videoId=${firstVideoId}`
+      this.setVideoById(randomVideoId)
     }
   }
 

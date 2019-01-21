@@ -66,8 +66,12 @@ const Player = ({ currentVideo }) => {
 }
 
 const propTypes = {
-  currentVideo: object.isRequired,
+  currentVideo: object,
+}
+const defaultProps = {
+  currentVideo: null,
 }
 
 Player.propTypes = propTypes
+Player.defaultProps = defaultProps
 export default Player

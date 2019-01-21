@@ -61,12 +61,12 @@ const StyledSidebar = styled(Box)`
 const SidebarPlaylist = ({ playlist }) => (
   <StyledSidebar>
     <ul>
-      {playlist.map(v => {
+      {playlist.map((v, i) => {
         const { title } = v.snippet
         const { videoId } = v.snippet.resourceId
         const imgUrl = v.snippet.thumbnails.default.url
         return (
-          <li>
+          <li key={`${videoId}-${i}`}>
             <a href={`#videoId=${videoId}`}>
               <Flex className="playlist__item">
                 <Image src={imgUrl} alt={title} width="45" marginTop="2px" />
