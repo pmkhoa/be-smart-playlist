@@ -33,7 +33,7 @@ const StyledAppContainer = styled(Box)`
   }
   .app__player {
     transition: all 0.4s;
-    padding-left: ${props => (props.sidebarActive ? `${SIDEBAR_WIDTH}px` : '0')}
+    left: ${props => (props.sidebarActive ? `${SIDEBAR_WIDTH}px` : '0')}
     position: relative;
     background: rgba(0, 0, 0, 0.15);
     height: 100vh;

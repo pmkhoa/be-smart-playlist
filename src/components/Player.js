@@ -37,6 +37,20 @@ const PlayerWrapper = styled(Box)`
     margin: 0.5rem 0;
     text-align: center;
   }
+
+  .player__responsive {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+  }
 `
 
 const Player = ({ currentVideo }) => {
@@ -46,16 +60,18 @@ const Player = ({ currentVideo }) => {
     const { title } = currentVideo.snippet
 
     const opts = {
-      height: '390',
-      width: '640',
+      height: '559',
+      width: '1425',
     }
 
     return (
       <PlayerWrapper backgroundImgUrl={imgUrl}>
         <Box className="player__underlay" />
         <Box className="player__container">
-          <Box>
-            <YouTube videoId={videoId} opts={opts} />
+          <Box width="720px" maxWidth="100%">
+            <Box className="player__responsive">
+              <YouTube videoId={videoId} opts={opts} />
+            </Box>
             <Box className="player__video-title">{title}</Box>
           </Box>
         </Box>
